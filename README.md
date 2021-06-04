@@ -1,28 +1,35 @@
-# Template2D-Unity202015f1
+### project Description
+### Reference project for loading scenes with Untiy SceneManagement
 
-### Project description: 
-Introduction/Project summary 
+### Development platform:
+Windows 10, Unity 2020.1.5f1, Visual Studio Community 2019
 
-### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+### Target platform:
+3D SteamVR 
 
-### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+### Visuals:
 
-### Visuals: 
-Screenshots (concept and experience), Video
+### Necessary setup/execution steps:
+### Documentation:
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.html
+https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.LoadScene.html
+Scenes have to be added in the Buildsettings under "Scenes in Build"
 
-### Third party material: 
+
+### Third party material:
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+sounds from Freesound.com
+Rats are from free3d.com
+unity API
 
-### Project state: 
-incl. progress in percent
 
-### Limitations: 
+### Project state:
+65%
 
-### Lessons Learned: 
+### Limitations:
+player view didn't work, wasn't able to check how it looked
+### Lessons Learned:
+Usage of audio in a VR-Scene, how to make a trigger box. Collecting Objects Script
 
-Copyright by you :)
+Copyright by trampimi
